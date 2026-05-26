@@ -1,0 +1,4 @@
+Dummy output generated for the Dropbox bridge showcase.
+
+This file stands in for analysis results that collaborators might need from Dropbox.
+
